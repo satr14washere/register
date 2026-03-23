@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> We are currently rewriting our registration process, CI/CD pipeline, documentation, and website. Pull requests are temporarily paused until the new system is ready. We will document the new registration process in this repository once it's ready. In the meantime, you can join our [discord server](https://discord.gg/rFyRF3MMhc) to get updates and support.
+> We are currently rewriting our registration process, CI/CD pipeline, documentation, and website. **Pull requests are still welcome** and will be migrated to the new syntax after the rewrite. We will document the new registration process in this repository once it's ready. In the meantime, you can join our [discord server](https://discord.gg/rFyRF3MMhc) to get updates and support.
 
 > [!CAUTION]
 > We currently **DO NOT** support Vercel, Netlify, and other services that requires us to be on the [PSL](https://github.com/publicsuffix/list). _We will apply to be on the list [only if theres high demand](https://publicsuffix.org/submit/#:~:text=We%20will%20generally%20decline%20small%20projects)_, so be patient and invite some of your friends!
